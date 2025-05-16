@@ -30,3 +30,4 @@
     <p class="text-wrap"; style="font-size:1rem; line-height:1.4285rem;">Request standard or non-standard hardware and peripherals. </p>
     </a>
 </div>
+</link rel="stylesheet" href="css/style.css">
