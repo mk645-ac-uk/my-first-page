@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="css/style.css">
 <h1>Welcome to my new page</h1>
 I hope this works!
 <style>
