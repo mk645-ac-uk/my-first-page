@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/styles.css">
 
 <h2>Digital Services (IT)</h2>
 <div class="it-buttons">    
