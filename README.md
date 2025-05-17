@@ -1,4 +1,4 @@
-<h2>Digital Services (IT)</h2>
+<h2>Digital Services (IT) for now</h2>
 <div class="it-buttons">    
 <a class="btn" href="https://dev-cccu.haloitsm.com/portal/kb"; style="width:350px"; height:250px";>
       <span><img class="icon" src="https://www.canterbury.ac.uk//image-library/information-technology/HALO/HALO-IT-portal-icon-01-search-help.png";"/></span>
